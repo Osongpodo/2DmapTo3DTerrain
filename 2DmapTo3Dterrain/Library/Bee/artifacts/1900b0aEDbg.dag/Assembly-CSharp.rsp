@@ -611,6 +611,7 @@
 "Assets/Infinity Code/Online maps/Scripts/XML/OnlineMapsXML.cs"
 "Assets/Infinity Code/Online maps/Scripts/XML/OnlineMapsXMLList.cs"
 "Assets/Infinity Code/Online maps/Scripts/XML/OnlineMapsXMLNamespaceManager.cs"
+"Assets/Scripts/SaveMesh.cs"
 "Assets/Scripts/SetMap.cs"
 -langversion:9.0
 
